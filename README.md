@@ -27,7 +27,7 @@ It Has somewhat of an interactive UI and hence the user needs to enter values wh
 ```
 
 ## Contributing
-This has been made solely by 3 people [Harshit Gupta](https://github.com/TheAthleticCoder "Harshit Gupta") ,[N Harsha V](https://github.com/harsha20032020 "N Harsha Vardhan")  and [Rohan V M](https://github.com/rohanmodepalle "Rohan Modepalle") .
+This has been made solely by 3 people [Harshit Gupta](https://github.com/TheAthleticCoder "Harshit Gupta") ,[ N Harsha V](https://github.com/harsha20032020 "N Harsha Vardhan")  and [Rohan V M](https://github.com/rohanmodepalle "Rohan Modepalle") .
 Although this is a course project , any ways to optimize the code and algorithms/data structures used in the program are welcomed for a discussion and maybe you can create a pull request.
 
 ## License
