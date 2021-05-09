@@ -19,11 +19,60 @@ Contain generic functions for implementations of linked lists ,stacks and queues
 Contains functions for implementations of graphs and Dijkstra's and safety values concept which is crucial for solving part 2 of the question.
 ### 3.personll.c and personll.h
 Contains functions and structures for storing and querying data regarding people and stations.
+### 4.lists.c
+Contains some utility functions which help in calculation of part1.
+### 5.MIni_Project.pdf
+Contains the question statement we are aiming to solve (question 6).
 
 ## Usage
 
 ```
-It Has somewhat of an interactive UI and hence the user needs to enter values when queried.
+(example inputs)
+Enter number of stations,roads and people //it is exactly as it asks...requires numerical input.
+7 9 14 
+Enter names of the station: //requires alphabetic names
+a b c d e f g
+Enter the bidirectional paths: //enter graphs from point a to point b with weight w as a b w.
+1 2 10
+1 3 20
+3 7 60
+2 7 50
+7 4 20
+7 6 30
+6 5 80
+6 1 90
+3 5 100
+Enter station number of each person:Enter the source station of 1 //enter the index of person whom do you want to place in station x as x...loop till people
+1
+Enter the source station of 2
+2
+Enter the source station of 3
+3
+Enter the source station of 4
+4
+Enter the source station of 5
+5
+Enter the source station of 6
+6
+Enter the source station of 7
+7
+Enter the source station of 8
+1
+Enter the source station of 9
+2
+Enter the source station of 10
+3
+Enter the source station of 11
+4
+Enter the source station of 12
+5
+Enter the source station of 13
+6
+Enter the source station of 14
+7
+For Day: 1, Enter the Query number //enter alphabets A for giving list of covid +ve people,B for calculating 3 shortest paths and safest paths between a and b
+,C for making a person travel, D for incrementing a day, E to query stations and F for individual queries.
+Enter the required values asked corresponding to the function chosen.
 ```
 
 ## Contributing
